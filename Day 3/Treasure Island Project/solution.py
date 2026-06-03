@@ -48,3 +48,4 @@ if choice1 == "left":
 
 else:
     print("You fell in to a hole. Game Over.")
+
